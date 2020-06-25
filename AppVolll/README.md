@@ -27,3 +27,6 @@ After Creating Database,
 ```
  9th Step: Open a browser and go to URL "http://localhost/App%20Vol2/view/"
 ```
+enter the admin information:
+UserName: fatimak@gmail.com
+Password: fatima123
